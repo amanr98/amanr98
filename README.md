@@ -28,4 +28,4 @@
   <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer"> <img src="https://www.spkaa.com/wp-content/uploads/2024/09/power-bi-logo.png" alt="powerbi" width="60" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanr98&show_icons=true&locale=en" alt="amanr98" width=300 /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amanr98&" alt="amanr98" width=473 /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanr98&show_icons=true&locale=en" alt="amanr98" width=350 /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amanr98&" alt="amanr98" width=400 /></p>
