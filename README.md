@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanr98&label=Profile%20views&color=0e75b6&style=flat" alt="amanr98" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Data Scraping**
 
 - 💬 Ask me about **Data**
 
